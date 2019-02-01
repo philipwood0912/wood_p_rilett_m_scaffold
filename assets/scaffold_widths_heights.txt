@@ -1,0 +1,41 @@
+Scaffold width and heights
+
+Header
+Logo: 104px 103px
+Social: 180px 30px
+Nav: 660px 50px
+
+Footer
+Nav: 660px 50px
+Social: 180px 30px
+
+Index Body
+Hero: 600px 250px
+Button: 90px 90px
+Button 2: 530px 90px
+Title: 550px 75px
+Box: 275px 400px
+
+About Body
+Title 1: 410px 75px
+SubTitle: 730px 55px
+Box 1: 860px 150px
+Title 2: 340px 75px
+Box 2: 570px 250px
+Photo 2: 230px 250px
+Title 3: 565px 75px
+Box 3: 570px 210px
+Photo 3: 230px 210px
+Title 4: 305px 75px
+Gear: 250px 250px
+Box 4: 280px 50px
+Title 5: 530px 75px
+Biz: 278px 125px
+Biz 2: 217px 263px
+Title 6: 440px 75px
+Box 6: 860px 200px
+Title 7: 615px 75px
+Box 7: 860px 246px
+
+
+
